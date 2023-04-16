@@ -60,22 +60,22 @@ const awards = [
   {
     imgUrl: images.award02,
     title: 'Bib Gourmond',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Order anywhere in the continental US. We have a variety of meals to choose from.',
   },
   {
     imgUrl: images.award01,
     title: 'Rising Star',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Resident brings chefs from Michelin restaurants to host speakeasy dinners in luxury penthouses, townhouses, and lofts around New York City.',
   },
   {
     imgUrl: images.award05,
     title: 'AA Hospitality',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Join us inside and be transported to a lush tropical oasis, or stay connected to the city and sit outside on our covered and climate- controlled patio.  ',
   },
   {
     imgUrl: images.award03,
     title: 'Outstanding Chef',
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur.',
+    subtitle: 'Mashama Bailey, the Grey, Savannah, Georgia',
   },
 ];
 

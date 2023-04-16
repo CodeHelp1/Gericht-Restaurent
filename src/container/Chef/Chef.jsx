@@ -16,9 +16,9 @@ const Chef = () => (
       <div className="app__chef-content">
         <div className="app__chef-content_quote">
           <img src={images.quote} alt="quote_image" />
-          <p className="p__opensans">Lorem ipsum dolor sit amet, consectetur adipiscing elit auctor sit .</p>
+          <p className="p__opensans">Come see the items featured from our scratch made kitchen .</p>
         </div>
-        <p className="p__opensans"> auctor sit iaculis in arcu. Vulputate nulla lobortis mauris eget sit. Nulla scelerisque scelerisque congue ac consequat, aliquam molestie lectus eu. Congue iaculis integer curabitur semper sit nunc. </p>
+        <p className="p__opensans"> An innovative concept from Chef José Andrés, China Poblano at The Cosmopolitan of Las Vegas combines the flavors of Mexico and China to create a breakthrough restaurant experience that encompasses both authentic dishes and inspired new favorites. </p>
       </div>
 
       <div className="app__chef-sign">

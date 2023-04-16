@@ -23,7 +23,7 @@ const Gallery = () => {
       <div className="app__gallery-content">
         <SubHeading title="Instagram" />
         <h1 className="headtext__cormorant">Photo Gallery</h1>
-        <p className="p__opensans" style={{ color: '#AAAAAA', marginTop: '2rem' }}>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Volutpat mattis ipsum turpis elit elit scelerisque egestas mu.</p>
+        <p className="p__opensans" style={{ color: '#AAAAAA', marginTop: '2rem' }}>Gallery Restaurant at The Ballantyne in Charlotte specializes in a progressively Southern approach to new American cuisine. Driven by modern culinary techniques, Gallery’s culinary team is committed to creating delicious and beautiful cuisine featuring fresh ingredients.</p>
         <button type="button" className="custom__button">View More</button>
       </div>
       <div className="app__gallery-images">
